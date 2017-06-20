@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - BrokenRobot
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - FrontGround
+  - BackGround
+  - PlayerLayer
+  - StaticImage
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: backGround
+    uniqueID: 399551471
+    locked: 0
+  - name: middleGround
+    uniqueID: 3506639047
+    locked: 0
+  - name: middleBackGround
+    uniqueID: 171295631
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: frontGround
+    uniqueID: 4246167271
+    locked: 0
